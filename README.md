@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋  I'm Amzeryogo...
+### I am from earth with an internet connection and lots of time
 
 <!--
 **Amazeryogo/Amazeryogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
