@@ -3,3 +3,5 @@
 ### Check out my profile on my social media website: http://www.amazeryogo.in/user/Amazeryogo
 ### If you want to see my blog posts, check out: https://lifeonearth1024.blogspot.com/
 ### -- Amazeryogo!
+
+### BTW, I USE DEBIAN,UBUNTU,POPOS AND MACOS
