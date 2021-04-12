@@ -5,4 +5,4 @@
 
 ## Thanks for Reading :)
 
-#### PS- I use Ubuntu btw
+#### PS- I use Ubuntu/Pop!_OS btw
