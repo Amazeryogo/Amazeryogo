@@ -1,6 +1,8 @@
 ### Hi there 👋  I'm Amazeryogo...
-### I am 13 years old. I love building random projects on github
-### I usually use Python3 for my projects.
+### I am a Human from Earth who loves using computers.
+### I build random projects on github.
+### I am trying to learn C++ and concurrency in go.
 
+## Thanks for Reading :)
 
-#### I use Ubuntu btw
+#### PS- I use Ubuntu btw
