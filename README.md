@@ -1,4 +1,6 @@
 ### Hi there 👋  I'm Amazeryogo...
-### I am from earth with an internet connection and lots of time and I love tinkering around the Raspberry Pi!
-### I know 3 languages:
-### Python3, C and Go (but I usually only use Python3 for projects)
+### I am 13 years old. I love building random projects on github
+### I usually use Python3 for my projects.
+
+
+#### I use Ubuntu btw
