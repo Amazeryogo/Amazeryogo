@@ -1,4 +1,5 @@
-# Hi there 👋  I'm Amazeryogo... (He/Him)
+# Hi there 👋  I'm Amazeryogo... 
+###  He/Him, 13 years young
 ## I live in Chennai,India 🇮🇳
 
 ## What are my interests?
