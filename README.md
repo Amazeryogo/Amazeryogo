@@ -2,6 +2,14 @@
 ###  Male, 13 years young
 ## I live in Chennai,India 🇮🇳
 
+
+## What languages do I use?
+### Python3 and Golang
+
+## Do you use linux?
+### Yes I do! I use Debian & Ubuntu
+
+
 ## What are my interests?
 ### Computers & Programming:
 #### I have been keen about Computers for a long time, computers have been a part of my life since I can remember. Programming was first introduced to me when I was 8 but I finally started to take coding seriously around the first COVID wave in India (March/April 2020)
@@ -16,4 +24,3 @@
 
 
 ### Thats pretty much about me! Thanks for reading :)
-##### PS: I use Debian BTW
