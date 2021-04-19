@@ -1,13 +1,10 @@
 # Hi there 👋  I'm Amazeryogo... 
-###  Male, 13 years young
-## I live in Chennai,India 🇮🇳
-
-
-## What languages do I use?
-### Python3 and Golang
-
-## Do you use linux?
-### Yes I do! I use Debian & Ubuntu
+### Age: 13
+### Gender: Male
+### Location: Chennai, India 🇮🇳
+### (Computer)Languages: Python3 and Golang
+### Uses Linux?: Yes
+### Linux Distro: Ubuntu,Debain & Raspbian
 
 
 ## What are my interests?
