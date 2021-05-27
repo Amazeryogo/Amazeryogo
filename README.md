@@ -3,9 +3,7 @@
 #### Gender: Male
 #### Location: Chennai, India 🇮🇳
 #### (Computer)Languages: Python3 and Golang
-#### Uses Linux?: Yes
-#### Linux Distro: Ubuntu,Debain & Raspbian
-#### Additional Operating Systems: MacOS
+#### I use Debian BTW (along with PopOS,ubuntu and raspbian)
 
 
 
