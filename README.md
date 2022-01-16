@@ -4,7 +4,6 @@
 "I am known as Amazeryogo and nachosinmyyard"
 ```
 ### Name : Suvid Datta
-* Age : 14
 * Gender: Male
 * Natural Habitat : My bed
 * Found around : Chennai, India
