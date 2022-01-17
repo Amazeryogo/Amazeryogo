@@ -7,7 +7,7 @@
 * Gender: Male
 * Natural Habitat : My bed
 * Found around : Chennai, India
-* Languages: Python 🐍,  HTML,C *Bash Dash Fish*
+* Languages: Python, C, Bash, HTML
 
 ### I USE DEBIAN BTW
 
