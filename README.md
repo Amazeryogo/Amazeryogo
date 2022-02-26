@@ -7,7 +7,7 @@
 * Gender: Male
 * Natural Habitat : My bed
 * Found around : Chennai, India
-* Languages: Python, C, Bash, HTML, Racket, Prolog
+* Languages: Python, C++,Bash, Racket, Prolog
 
 ### I USE DEBIAN BTW
 
